@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "301310363915",
+    "project_id": "firnov-80c4f",
+    "storage_bucket": "firnov-80c4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301310363915:android:b8ea4e45ba93a0bdaa3a0e",
+        "android_client_info": {
+          "package_name": "com.example.firabsenew"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByHleqtNJLit-t9O8JBv6AJEU94dJS6H0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
